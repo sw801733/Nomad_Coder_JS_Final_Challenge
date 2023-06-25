@@ -10,6 +10,10 @@
 - 날씨와 위치 (geolocation)
 - 여러분의 CSS 실력을 뽐내주세요💖
 
+## 결과 화면
+![image](https://github.com/sw801733/sw801733.github.io/assets/84767822/43588a24-bebc-4fcb-a316-d77f0a1c69c4)
+
+
 ## 추가
 logout 기능을 추가하였습니다.
 logout 버튼 클릭 시 username 이 localStorage 와 loginform 에서 사라지게 되고
