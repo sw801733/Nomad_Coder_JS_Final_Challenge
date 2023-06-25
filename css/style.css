@@ -1,0 +1,11 @@
+.hidden {
+  display: none;
+}
+#main{
+    font-weight: bold;
+    text-align: center;
+    margin-left: 8px;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
