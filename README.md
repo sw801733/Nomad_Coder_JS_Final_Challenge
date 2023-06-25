@@ -16,5 +16,7 @@
 
 ## 추가
 logout 기능을 추가하였습니다.
+
 logout 버튼 클릭 시 username 이 localStorage 와 loginform 에서 사라지게 되고
+
 화면을 리로드 하여 기존의 로그인 했던 username 이 화면에서 사라지도록 하였습니다.
