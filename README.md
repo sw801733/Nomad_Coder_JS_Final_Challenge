@@ -1,5 +1,3 @@
-# sw801733.github.io
-
 # 노마드코더 바닐라JS 마지막 Challenge
 
 ## 조건
