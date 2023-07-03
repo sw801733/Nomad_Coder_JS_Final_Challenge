@@ -11,8 +11,6 @@
 ## 결과 화면
 ![image](https://github.com/sw801733/sw801733.github.io/assets/84767822/43588a24-bebc-4fcb-a316-d77f0a1c69c4)
 
-### 주소
-https://sw801733.github.io.
 
 
 ## 추가
